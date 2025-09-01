@@ -1,0 +1,5 @@
+{
+  "name": "Copy of AI Car Price Estimator (Turkey)",
+  "description": "An AI-powered application that estimates car prices in Turkish Lira based on the model, considering the current Turkish economic conditions.",
+  "requestFramePermissions": []
+}
